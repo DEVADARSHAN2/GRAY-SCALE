@@ -26,8 +26,8 @@ Result Visualization: Highlight fractures on original image.
 
 ## PROGRAM:
 ```
-Developed By: DARIO G
-Register No: 212222230027
+Developed By: DEVADARSHAN A S
+Register No: 212222110007
 ```
 ```py
 import cv2
@@ -68,7 +68,7 @@ cv2.destroyAllWindows()
 
 ```
 ## Output
-![image](https://github.com/Pravinrajj/GRAY-SCALE/assets/117917674/6403ef21-4cc8-48b9-ba2a-2cf018454bf1)
+![image](https://github.com/DEVADARSHAN2/GRAY-SCALE/assets/119432150/cabf7892-905a-4be8-b2e7-05b3e2cf1fda)
 
 ## Advantages
 ### Simplicity:
